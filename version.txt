@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<update>
+    <version>0.1</version>
+    //<url>https://example.com/update.zip</url>
+    //<sha256>ABCDEF1234567890...</sha256>
+</update>
